@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sanjar.dev/uz</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/about</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/about</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/projects</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/projects</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/projects</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/contact</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/contact</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog/python-for-beginners</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog/python-for-beginners</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog/python-for-beginners</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/python-for-beginners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/python-for-beginners" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog/aiogram-telegram-bot-guide</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog/aiogram-telegram-bot-guide</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/aiogram-telegram-bot-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/aiogram-telegram-bot-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog/machine-learning-fundamentals</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog/machine-learning-fundamentals</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog/machine-learning-fundamentals</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/machine-learning-fundamentals" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/machine-learning-fundamentals" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog/cybersecurity-basics</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog/cybersecurity-basics</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog/cybersecurity-basics</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/cybersecurity-basics" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/cybersecurity-basics" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/blog/mysql-best-practices</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/blog/mysql-best-practices</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/blog/mysql-best-practices</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/blog/mysql-best-practices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/blog/mysql-best-practices" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/projects/telegram-test-bot</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/projects/telegram-test-bot</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/projects/telegram-test-bot</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/telegram-test-bot" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/telegram-test-bot" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/projects/ecoguardian-ai</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/projects/ecoguardian-ai</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/projects/ecoguardian-ai</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ecoguardian-ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ecoguardian-ai" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/uz/projects/ai-medical-assistant</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/en/projects/ai-medical-assistant</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sanjar.dev/ru/projects/ai-medical-assistant</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sanjar.dev/en/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sanjar.dev/ru/projects/ai-medical-assistant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sanjar.dev/uz/projects/ai-medical-assistant" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
