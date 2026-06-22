@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "prebuild": "node scripts/gen-seo-files.mjs",
+    "postbuild": "node scripts/gen-spa-404.mjs",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
